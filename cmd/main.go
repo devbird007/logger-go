@@ -13,6 +13,4 @@ func main() {
 	logger.Log("warning", "no tasks found")
 	logger.Log("error", "exiting: no work performed")
 
-	logger.write("error", "log this message...")
-
 }
